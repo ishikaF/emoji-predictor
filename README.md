@@ -32,7 +32,7 @@ This project predicts emojis from tweet-like text using deep learning models inc
 
 ## 📄 Report
 
-📑 [Read full report](Tweet_Emoji_Prediction_w_demo.pdf)
+📑 [Read full report](emoji_predictor_report.pdf)
 
 ---
 
